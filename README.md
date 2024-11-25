@@ -6,7 +6,7 @@ Dada una bbdd con trabajadores y departamentos en MySQL:
 3. Mostrar el empleado con mayor salario, atributos: Apellido, Salario y Departamento
 4. Realizar los puntos anteriores mediante procedimientos almacenados.
 
-#Base de datos utilizada
+# Base de datos utilizada
 ```bash
 create database empresa;
 
